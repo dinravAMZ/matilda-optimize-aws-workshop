@@ -13,6 +13,6 @@ Congratulations! You have discovered the secret clue for this session -  Transfo
 4. Matilda Cloud will draw random winners at the end of Migratapalooza 2023. Complete the survey now!
 
 <!-- comment -->
-* Entries must be in US, Canada, or Mexico. Only one entry per attendee per session is allowed. Adding a referral will add 3 additional raffle entries per submission. Referral contacts must be valid.
+*Entries must be in US, Canada, or Mexico. Only one entry per attendee per session is allowed. Adding a referral will add 3 additional raffle entries per submission. Referral contacts must be valid.
 
 ![MPW.05.003](/images/MPW.05.003.png)
