@@ -5,7 +5,19 @@ weight: 2 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 ---
 ## Finding the Recommendation
 
-Once you select **Right Sizing** at the top of the page, sort the **Recommendation** column. There should be a recommendation to **Resize an EC2 Instance** near the top of the page. 
+**There are many ways to locate types of recommendations in Matilda Optimize.** The top of the recommendations page provides a few different ways to locate the recommendation you are looking for.
+
+For now, we will look for right sizing recommendations focused on resizing instances while staying within the instance family. More generally, all right sizing recommendations can be filtered by selecting the **Right Sizing** button at the top of the recommendations page.
+
+The fastest way to locate specific recommendations is to use the search bar by clicking the magnifying glass at the top right corner of the list. Here are a few of the keywords you can search for to help you locate a right sizing recommendation…
+
+* “Increase” or “Decrease” will locate recommendations to resize within instance family
+* “Request” and “Resize” will also find similar types of recommendations
+* “Modernize” will provide right sizing recommendations between instance families
+
+In addition to searching for recommendations, you can browse through the list of recommendations with filters at the top of the page or on the top right-hand corner of the recommendations page.
+
+For now, search for one of the above keywords and select a right sizing recommendation. In the example below, we examine a recommendation to **Resize an EC2 Instance.**
 
 ![MPW.03.02](/images/MPW.03.02.png)
 

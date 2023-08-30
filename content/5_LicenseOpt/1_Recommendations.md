@@ -5,9 +5,14 @@ weight: 1 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 ---
 ## License Optimization Recommendations
 
-License optimization recommendations are found under **Savings**. Click the **Savings** button at the top of the page and sort the recommendations to find a BYOL recommendation at the top of the page (alphabetical). 
+License optimization recommendations are found under **Savings.** Some keywords to locate license optimization recommendations from the search bar include…
 
-In this example we will look at the recommendation, **BYOL to License Included recommendations (Windows / SQL Server)**, with a resource name of **mcmawsdev02**. 
+* “License” will provide a more comprehensive list
+* “BYOL” will locate specific license recommendations
+* “Enterprise” or “Standard” will locate specific license recommendations
+* “SQL Server” will locate many recommendations, including those specific to SQL Server licenses
+
+In this example we will look at the recommendation, **BYOL to License Included recommendations (Windows / SQL Server)**, with a resource name of **mcmawsdev02.**
 
 ![MPW.05.01](/images/MPW.05.01.png)
 
