@@ -9,4 +9,4 @@ Matilda Optimize, backed by the robust AWS ecosystem, empowers organizations to 
 
 Today, we invite you to embrace the possibilities and embark on your own journey of intelligent cloud optimization with Matilda Cloud's Optimize tool.
 
-![MPW.07.02](/images/MPW.07.02.PNG)
+![MPW.07.02](/images/MPW.07.02.png)
