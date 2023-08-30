@@ -1,12 +1,12 @@
 ---
-title: "Transformation" 
+title: "Conclusion" 
 chapter: true
-weight: 7
+weight: 8
 ---
-# Transformation
-With Matilda Optimize and the robust AWS ecosystem, you will witness a transformation of your cloud landscape. Matilda Cloud’s modernization strategy optimizes costs and unlocks the full potential of your applications, staying one step ahead in this ever-evolving cloud landscape.
+# Conclusion
 
-Take this time to explore the Matilda Optimize tool and see how its recommendations provide quantifiable business outcomes and help you manage your AWS landscape. 
+Matilda Optimize, backed by the robust AWS ecosystem, empowers organizations to confidently embark on their modernization journey. Harnessing the power of the AWS Well-Architected Framework and AI/ML, Matilda Cloud's Optimize tool helps businesses create a quantifiable business case for application modernization.
 
-![MPW.07.01](/images/MPW.07.01.png)
+Today, we invite you to embrace the possibilities and embark on your own journey of intelligent cloud optimization with Matilda Cloud's Optimize tool.
 
+![MPW.07.02](/images/MPW.07.02.png)

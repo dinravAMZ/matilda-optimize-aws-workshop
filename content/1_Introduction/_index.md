@@ -4,7 +4,13 @@ chapter: true
 weight: 1
 ---
 
-# Introduction
+## Matilda Cloud Overview
+
+Matilda Cloud equips organizations with powerful automated IT solutions to reach beyond digital transformation. Matilda Cloud's comprehensive integrated platform offers wholistic discovery and profiling, as well as automation for migration, modernization, and optimization. Matilda Cloud's advanced tools provide visibility, control, and ROI to transform digital landscapes from spaces to navigate into dynamic, optimized assets.
+
+## Introduction
+
+Today, we are going to explore the transformative power of Matilda Cloud's optimization tool, Matilda Optimize. This workshop aims to walk you through the journey of how this advanced solution, in partnership with AWS, can drastically enhance your approach to application modernization and intelligent cloud optimization.
 
 ## Vision of a Cloud-Optimized World
 
